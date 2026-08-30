@@ -1,0 +1,30 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">David Silver Perspective Skill</title>
+  <desc id="desc">A reinforcement learning loop from experience to search, policy, value and feedback.</desc>
+  <rect width="1200" height="420" fill="#0B1220"/>
+  <rect x="32" y="32" width="1136" height="356" rx="26" fill="#111827" stroke="#263244"/>
+  <path d="M88 312C180 250 236 258 320 290C438 335 502 314 586 238C693 141 811 135 934 190C1006 222 1054 220 1112 180" stroke="#2DD4BF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M88 336C188 305 278 310 374 330C514 359 628 334 754 260C880 186 980 145 1112 146" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+  <circle cx="214" cy="274" r="12" fill="#2DD4BF"/>
+  <circle cx="392" cy="316" r="12" fill="#F59E0B"/>
+  <circle cx="610" cy="216" r="12" fill="#60A5FA"/>
+  <circle cx="828" cy="160" r="12" fill="#A78BFA"/>
+  <circle cx="1012" cy="206" r="12" fill="#34D399"/>
+  <text x="82" y="118" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="0">David Silver.skill</text>
+  <text x="84" y="164" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="0">Experience-first reinforcement learning perspective</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    <rect x="82" y="218" width="138" height="42" rx="8" fill="#123B44" stroke="#2DD4BF"/>
+    <text x="109" y="245" fill="#CCFBF1">Experience</text>
+    <rect x="254" y="218" width="110" height="42" rx="8" fill="#3B2A0A" stroke="#F59E0B"/>
+    <text x="284" y="245" fill="#FEF3C7">Search</text>
+    <rect x="398" y="218" width="104" height="42" rx="8" fill="#172554" stroke="#60A5FA"/>
+    <text x="427" y="245" fill="#DBEAFE">Policy</text>
+    <rect x="536" y="218" width="98" height="42" rx="8" fill="#312E81" stroke="#A78BFA"/>
+    <text x="564" y="245" fill="#EDE9FE">Value</text>
+    <rect x="668" y="218" width="126" height="42" rx="8" fill="#064E3B" stroke="#34D399"/>
+    <text x="696" y="245" fill="#D1FAE5">Reward</text>
+  </g>
+  <path d="M220 239H254M364 239H398M502 239H536M634 239H668" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+  <path d="M802 239C900 238 914 126 814 126H198C130 126 104 158 104 214" stroke="#475569" stroke-width="3" stroke-dasharray="8 10" stroke-linecap="round"/>
+  <text x="84" y="362" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="0">Agent · Environment · Action · Observation · Reward · Horizon</text>
+</svg>
